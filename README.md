@@ -1,20 +1,18 @@
 # Starbucks-Capstone-Challenge
 
-Starbucks of many companies would like to offer personalised promotions to their customers.
+Starbucks would like to offer personalised promotions to their customers.
 Based on the datasets we will analyse the impact and deploy a small predictor for users
 who would like to take in advance from a promotion or not.
 
 
 ## Motivation <a name="motivation"></a>
-
-
+The motivation is to analyse real customer data and discover potential patterns or relevant features during the process
+and the challenge to provide solutions for real industry problems.
 
 ## Project Requirements
-
 * Jupiter Notebook with Python3 and [Anaconda Distribution](https://www.anaconda.com/products/individual) (recommended)
 
 ## Files and Descriptions <a name="data"></a>
-
 
     .
     ├── Starbucks_Capstone_notebook.ipynb    # Analysis and prediction prototype design
@@ -54,6 +52,8 @@ Here is the schema and explanation of each variable in the datasets:
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+## Analysis and Prediction Prototype Design
+It can be found in the file Starbucks_Capstone_notebook.ipynb
 
 ## Creator <a name="author"></a>
 * José Mancera [Linkedin](https://www.linkedin.com/in/jose0628/)
