@@ -23,7 +23,7 @@ who would like to take in advance from a promotion or not.
     │   ├── starbucks_predictor   # It allows to perform predictions 
     │   └── clean_data.py         # Optimized script to clean the datasets
     │
-    ├── datasets                   
+    ├── data                   
     │   ├── portfolio.json    # Containing offer ids and meta data about each offer (duration, type, etc.) 
     │   ├── profile.json      # Demographic data for each customer
     │   └── transcript.json   # Records for transactions, offers received, offers viewed, and offers completed
