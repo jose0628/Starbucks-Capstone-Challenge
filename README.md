@@ -1,17 +1,13 @@
 # Starbucks-Capstone-Challenge
 
 Starbucks of many companies would like to offer personalised promotions to their customers.
-Based on the datasets we find a way to predict is the customers will be in
+Based on the datasets we will analyse the impact and deploy a small predictor for users
+who would like to take in advance from a promotion or not.
 
-
-During this analysis, I will show a simple example to apply it in the AirBnB Seattle dataset
 
 ## Motivation <a name="motivation"></a>
-The AirBnB Seattle dataset has several features regarding the characteristics of room types in rent
 
-* What is the price relation between room type and a suburb of the city?
-* Is there a price difference between room type and bed type?
-* Are the number of bathrooms or bedrooms important perks to influence the price?
+
 
 
 ## Files and Descriptions <a name="data"></a>
