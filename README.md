@@ -24,7 +24,7 @@ The AirBnB Seattle dataset has several features regarding the characteristics of
     │   ├── starbucks_predictor   # It allows to perform predictions 
     │   └── clean_data.py         # Optimized script to clean the datasets
     │
-    ├── data                   
+    ├── datasets                   
     │   ├── portfolio.json    # Containing offer ids and meta data about each offer (duration, type, etc.) 
     │   ├── profile.json      # Demographic data for each customer
     │   └── transcript.json   # Records for transactions, offers received, offers viewed, and offers completed
@@ -32,13 +32,7 @@ The AirBnB Seattle dataset has several features regarding the characteristics of
     └── README.md
 
 
-The data for analysis is contained in three files:
-
-* portfolio.json - 
-* profile.json - 
-* transcript.json - 
-
-Here is the schema and explanation of each variable in the files:
+Here is the schema and explanation of each variable in the datasets:
 
 **portfolio.json**
 * id (string) - offer id
