@@ -9,6 +9,9 @@ who would like to take in advance from a promotion or not.
 
 
 
+## Project Requirements
+
+* Jupiter Notebook with Python3 and [Anaconda Distribution](https://www.anaconda.com/products/individual) (recommended)
 
 ## Files and Descriptions <a name="data"></a>
 
