@@ -18,8 +18,8 @@ and the challenge to provide solutions for real industry problems.
     ├── Starbucks_Capstone_notebook.ipynb    # Analysis and prediction prototype design
     │   
     ├── scripts                   
-    │   ├── starbucks_predictor   # It allows to perform predictions 
-    │   └── clean_data.py         # Optimized script to clean the datasets
+    │   └── starbucks_offfers_predictor   # It allows to perform predictions and clean the data
+    │   
     │
     ├── data                   
     │   ├── portfolio.json    # Containing offer ids and meta data about each offer (duration, type, etc.) 
