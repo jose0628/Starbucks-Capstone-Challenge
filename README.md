@@ -55,6 +55,9 @@ Here is the schema and explanation of each variable in the datasets:
 ## Analysis and Prediction Prototype Design
 It can be found in the file Starbucks_Capstone_notebook.ipynb
 
+## Medium Article 
+* [Medium](https://medium.com/@jose0628/starbucks-challenge-4ce6fe9e06b8)
+
 ## Creator <a name="author"></a>
 * José Mancera [Linkedin](https://www.linkedin.com/in/jose0628/)
 
