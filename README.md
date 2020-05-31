@@ -56,7 +56,7 @@ Here is the schema and explanation of each variable in the datasets:
 It can be found in the file Starbucks_Capstone_notebook.ipynb
 
 ## Medium Article 
-* [Medium](https://medium.com/@jose0628/starbucks-challenge-4ce6fe9e06b8)
+* [Medium](https://medium.com/@jose0628/starbucks-challenge-9aee41d9512f)
 
 ## Creator <a name="author"></a>
 * José Mancera [Linkedin](https://www.linkedin.com/in/jose0628/)
