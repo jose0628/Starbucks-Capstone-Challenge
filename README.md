@@ -18,7 +18,7 @@ and the challenge to provide solutions for real industry problems.
     ├── Starbucks_Capstone_notebook.ipynb    # Analysis and prediction prototype design
     │   
     ├── scripts                   
-    │   └── starbucks_offfers_predictor   # It allows to perform predictions and clean the data
+    │   └── starbucks_offers_predictor   # It allows to perform predictions and clean the data
     │   
     │
     ├── data                   
